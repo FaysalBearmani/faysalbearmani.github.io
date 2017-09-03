@@ -18,7 +18,7 @@
 .wb-stl-heading3 a { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 29px; font-weight: bold; font-style: normal; }
 .wb-stl-heading3 a:hover { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; line-height: 29px; font-weight: bold; font-style: normal; }
 .wb-stl-heading3 ul { list-style-image: url(''); }
-.wb-stl-normal { font: normal normal 21px Arial,Helvetica,sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 21px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-normal { font: normal normal 14px Arial,Helvetica,sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 21px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
 .wb-stl-normal a { font: normal normal 21px Arial,Helvetica,sans-serif; color: #ffffff; text-decoration: underline; text-align: left; line-height: 21px; font-weight: normal; font-style: normal; }
 .wb-stl-normal a:hover { font: normal normal 21px Arial,Helvetica,sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 21px; font-weight: normal; font-style: normal; }
 .wb-stl-normal ul { list-style-image: url(''); }
