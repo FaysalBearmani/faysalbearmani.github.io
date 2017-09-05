@@ -384,6 +384,6 @@ $(function() {
              +'&body='+document.getElementById('email').value;
     window.location.href = link; 
     **/
-	  //alert('Yoyr message has been sent !');
-	  swal("Good job!", "You clicked the button!", "success")
+	  alert('Yoyr message has been sent !');
+	  
 }
