@@ -385,6 +385,6 @@ $(function() {
     window.location.href = link; 
     **/
 	 // alert('Yoyr message has been sent !');
-	  swal("Good job!", "You clicked the button!", "success")
+	  sweetAlert("Oops...", "Something went wrong!", "error");
 	  
 }
