@@ -384,5 +384,5 @@ $(function() {
              +'&body='+document.getElementById('email').value;
     window.location.href = link; 
     **/
-	  alert('yoo');
+	  alert('Yoyr message hase been sent !');
 }
