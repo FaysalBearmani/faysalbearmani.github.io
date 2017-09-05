@@ -5,14 +5,15 @@ font-size:100%;
 margin:0;
 padding:0;
 vertical-align:baseline;
-background-color: #006699;	
+	
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;
+background-color: #006699;}
 
 .clear {clear: both;}
 
