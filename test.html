@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript</h2>
+
+<h3>The window.location object</h3>
+<button id="SendEmail">Send Email</button>
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = 
+"The full URL of this page is:<br>" + window.location.href;
+$('#SendEmail').submit(function(e) {
+    e.preventDefault();
+    // handle the form submission (AJAX...)
+
+    window.location.assign('mailto:foo@bar.com');
+});
+</script>
+
+</body>
+</html>
