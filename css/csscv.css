@@ -37,7 +37,7 @@ body, .wb_sbg { min-width: 100%; min-height: 100%; }
 #wb_element_instance0 ul ul { background: #ffe100 none repeat scroll left top; }
 #wb_element_instance0 li { margin: 0px 10px 0px 10px; }
 #wb_element_instance0 li a { text-transform: none; border: 0px none #000000; padding: 10px 5px 10px 5px; font: normal normal 18px Arial,Helvetica,sans-serif; text-decoration: none; color: #ffffff; line-height: 20px; background: transparent none repeat scroll left top; }
-#wb_element_instance0 li.hover > a, #wb_element_instance0 li:focus > a { border: 0px none #000000; font: normal normal 18px Arial,Helvetica,sans-serif; text-decoration: none; color: #ff0900; line-height: 20px; background: transparent none no-repeat scroll center bottom; }
+#wb_element_instance0 li.over > a, #wb_element_instance0 li:focus > a { border: 0px none #000000; font: normal normal 18px Arial,Helvetica,sans-serif; text-decoration: none; color: #ff0900; line-height: 20px; background: transparent none no-repeat scroll center bottom; }
 #wb_element_instance0 li.active > a { border: 0px none #000000; font: normal normal 18px Arial,Helvetica,sans-serif; text-decoration: none; color: #ff0900; line-height: 20px; background: transparent none no-repeat scroll center bottom; }
 #wb_element_instance0:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance0:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
 #wb_element_instance0:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
