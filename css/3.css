@@ -70,10 +70,6 @@ body, .wb_sbg { min-width: 100%; min-height: 100%; }
 #wb_element_instance23 { z-index: 9000; }
 #wb_element_instance24 { z-index: 9999; }
 
-#memo:hover {
-background-color: #f06023;
-
-}
 
 @media (min-width: 768px) {
 	.root > div { padding-left: 20px; padding-right: 20px; }
