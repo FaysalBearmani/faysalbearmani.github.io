@@ -1,0 +1,32 @@
+a.email-link {
+position: relative;
+display: block;
+width: 108%;
+margin-left: -300px;
+background: none;
+padding: 5px 0px 5px 60px;
+}
+
+a.email-link span {
+position: relative;
+z-index: 2;
+font-size: 40px;
+ font-family: serif;
+}
+
+a.email-link:before {
+content: '';
+position: absolute;
+display: block;
+top: 0;
+left: 0;
+width: 0;
+height: 100%;
+background: #f06023;
+transition: width 400ms ease-out;
+z-index: 1;
+}
+
+a.email-link:hover:before {
+width: 150%;
+}
