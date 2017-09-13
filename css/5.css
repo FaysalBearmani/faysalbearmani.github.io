@@ -1,0 +1,88 @@
+
+body{
+	background: url("../img/photo.jpg");
+}
+
+.activity-container {
+  max-width: 800px;
+  /*margin: 0 auto;*/
+   margin-left: 27cm;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;  }
+  .activity-container .inner-activity {
+    padding: 5px 15px;
+   /* box-shadow: 0 2px 4px rgb(19, 18, 18);*/
+    /*border-radius: 10px;*/
+	/*border-radius: 15px 50px;*/
+	border-radius: 15px 50px 30px 5px;
+	    border-style: solid;
+    border-color : #000000;
+	box-shadow: 10px 10px 5px #000000;
+    margin: 40px; }
+    .activity-container .inner-activity .activity-title {
+      font-family: Roboto;
+      font-size: 22px;
+      color: black;
+      
+	  }
+    .activity-container .inner-activity .activity-tags-list {
+      display: flex;
+      flex-direction: row;
+      padding: 0; }
+      .activity-container .inner-activity .activity-tags-list li {
+        padding: 15px;
+        font-size: 14px;
+        color: #444; }
+    .activity-container .inner-activity .activity-date span {
+      font-size: 14px;
+      font-style: italic;
+      color:   #cc0000/*#333*/; }
+  .activity-container .activity-description-container {
+    margin: 0; }
+    .activity-container .activity-description-container .activity-description-content {
+      font-size: 18px;
+      color: #000a1a/*#555*/; }
+    .activity-container .activity-description-container::after {
+      content: '';
+      display: block;
+      margin: 0 auto;
+      background: #ff3300;
+      height: 1px;
+      width: 95%; }
+  .activity-container .activity-tags-container h4 {
+    margin: 15px 0 0 0;
+    font-weight: 100;
+    font-size: 15px;
+    color: #222; }
+  .activity-container .activity-tags-container .activity-tags-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0; }
+    .activity-container .activity-tags-container .activity-tags-list .activity-tags-element {
+      font-weight: bold;
+      color: #a71818; }
+	  
+	  
+.link{
+
+font-weight: bold;
+}
+#toto,#toto2 ,#toto3{
+font-weight: bold;	
+}
+.activity-date  {
+	font-weight: bold;
+}	
+	  
+/*.inner-activity{
+
+background-color :#ffffcc;
+
+}*/	
+	
+	
