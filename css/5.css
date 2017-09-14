@@ -1,15 +1,21 @@
-
 body{
-	background: url("../img/photo.jpg");
+	background: url("../img/photo5.jpg");
 }
+/* Sur les écrans, quand la largeur de la fenêtre fait au maximum 1280px */
+
+
 
 .activity-container {
-  max-width: 800px;
-  /*margin: 0 auto;*/
-   margin-left: 27cm;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;  }
+  max-width: 800%;
+   /*margin: 0 auto;*/
+   margin-left: 20%;
+   margin-right: 11%;
+   display: flex;
+   justify-content: center;
+   flex-direction: column; 
+  
+ 
+  }
   .activity-container .inner-activity {
     padding: 5px 15px;
    /* box-shadow: 0 2px 4px rgb(19, 18, 18);*/
@@ -19,7 +25,8 @@ body{
 	    border-style: solid;
     border-color : #000000;
 	box-shadow: 10px 10px 5px #000000;
-    margin: 40px; }
+    margin: 40px;
+	}
     .activity-container .inner-activity .activity-title {
       font-family: Roboto;
       font-size: 22px;
@@ -84,5 +91,6 @@ font-weight: bold;
 background-color :#ffffcc;
 
 }*/	
+
 	
 	
