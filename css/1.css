@@ -1,7 +1,7 @@
 #wb_header { background: transparent none repeat scroll left top; }
 #wb_main { background: transparent none repeat-x scroll left top; padding-bottom: 50px; }
 #wb_footer { background: transparent none repeat-x scroll left top; }
-body { background: #242324 url("../img/moscowv2.jpg")  repeat center top; }
+body { background: #242324 url("../img/moscowv2.jpg")  no-repeat center top; }
 .wb_sbg { background: transparent url("../gallery_gen/be3a40a9d8458ff2e7967eca62804159.jpg") repeat-x scroll center top; }
 body, .wb_sbg { min-width: 100%; min-height: 100%; }
 .root { box-sizing: border-box; width: 100%; }
