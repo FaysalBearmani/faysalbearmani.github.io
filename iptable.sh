@@ -16,7 +16,7 @@ VmWanNET="10.0.0.0/30"
 ## Network/Mmask of PrivNET
 PrivNET="192.168.9.0/24"
 ## Network/Mmask of VpnNET
-#NET="10.2.2.0/24"
+##VpnNET="10.2.2.0/24"
 
 ## Public IP => Set your own
 PublicIP="188.165.217.76"
