@@ -17,3 +17,4 @@ $( "#fofo" ).animate({
     color: "gray",
     backgroundColor: "rgb(214, 214, 194)"
 });
+mm
