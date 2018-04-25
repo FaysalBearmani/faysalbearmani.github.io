@@ -6,6 +6,21 @@ body{
 
 
 
+.time{
+  float: right;
+  margin: 1em;
+  font-weight: 900;
+  color: #ff5050;
+
+
+}
+.clear {
+  visibility: hidden;
+  clear: both;
+}
+.secondclassd{
+  float :left;
+}
 .activity-container {
   max-width: 800%;
    /*margin: 0 auto;*/
@@ -92,6 +107,3 @@ font-weight: bold;
 background-color :#ffffcc;
 
 }*/	
-
-	
-	
