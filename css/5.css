@@ -1,19 +1,26 @@
 body{
-	background: url("../img/photoo.jpg");
-	background-repeat: space;
+	background: url("../img/test10.jpg");
+	background-repeat: repeat-y;
 }
 
 
 
 
-.time{
+.time {
   float: right;
   margin: 1em;
   font-weight: 900;
   color: #ff5050;
-
-
 }
+.tim {
+  float: right;
+
+  font-weight: 900;
+  color: #ff5050;
+}
+
+
+
 .clear {
   visibility: hidden;
   clear: both;
@@ -107,3 +114,6 @@ font-weight: bold;
 background-color :#ffffcc;
 
 }*/	
+
+	
+	
